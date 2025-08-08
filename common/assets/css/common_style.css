@@ -1989,7 +1989,7 @@ input:focus {
 /* ========= [ * buttons ]  =========*/
 /* --------------- buttons style --------------- */
 .butn {
-  padding: 15px 40px;
+  padding: 15px 25px;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   position: relative;

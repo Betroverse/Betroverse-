@@ -546,6 +546,10 @@
     width: 300px;
     padding: 15px 25px;
   }
+  .tc-header-style2 .head-features .feat-card .icon {
+    height: 40px;
+    width: 40px;
+  }
   .tc-header-style2 .head-features {
     padding-bottom: 80px;
   }
